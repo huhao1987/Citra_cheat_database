@@ -1,0 +1,624 @@
+10-in-1 Arcade Collection (EUR):00040000000E7300.txt
+1001 Spikes (USA):000400000008FE00.txt
+3D After Burner II (EUR):0004000000157A00.txt
+3D Altered Beast (EUR):00040000000DC200.txt
+3D Altered Beast (USA):00040000000D9D00.txt
+3D Classics - Kid Icarus (EUR):0004000000055200.txt
+3D Classics - Kid Icarus (USA):0004000000054200.txt
+3D Classics - Kirby's Adventure (EUR):0004000000055000.txt
+3D Classics - Kirby's Adventure (USA):0004000000054600.txt
+3D Classics - TwinBee (EUR):0004000000055300.txt
+3D Classics - TwinBee (USA):0004000000054400.txt
+3D Classics - Urban Champion (USA):0004000000054500.txt
+3D Classics - Xevious (USA):0004000000054700.txt
+3D Sonic The Hedgehog (USA):00040000000DA000.txt
+3D Space Harrier (EUR):00040000000C0700.txt
+3D Streets of Rage (EUR):00040000000DE400.txt
+7th Dragon III Code - VFD (USA):000400000018F800.txt
+Ace Combat - Assault Horizon Legacy+ (EUR):000400000015A300.txt
+Ace Combat - Assault Horizon Legacy+ (USA):000400000015C000.txt
+Adventure Bar Story (EUR):000400000015FE00.txt
+Adventure Bar Story (USA):0004000000160F00.txt
+Adventure Time - Explore the Dungeon Because I DONT KNOW! (EUR):0004000000102600.txt
+Adventure Time - Explore the Dungeon Because I DONT KNOW! (USA):00040000000ECD00.txt
+Adventure Time - The Secret of the Nameless Kingdom (EUR):0004000000137C00.txt
+Adventure Time - The Secret of the Nameless Kingdom (USA):0004000000126D00.txt
+All Kamen Rider - Rider Revolution (JPN):000400000019CD00.txt
+Alliance Alive (USA):00040000001CCD00.txt
+Animal Crossing - New Leaf (EUR):0004000000086400.txt
+Asphalt 3D (USA):0004000000034C00.txt
+Azure Striker Gunvolt (EUR):0004000000165600.txt
+Azure Striker Gunvolt (USA):000400000014C800.txt
+Azure Striker Gunvolt 2 (EUR):00040000001A6E00.txt
+Azure Striker Gunvolt 2 (USA):0004000000196A00.txt
+Batman - Arkham Origins Blackgate (USA):00040000000D6B00.txt
+Ben 10 - Omniverse 2 (EUR):00040000000F1B00.txt
+Ben 10 - Omniverse 2 (USA):00040000000F2D00.txt
+Best of Arcade Games (EUR):00040000000FBD00.txt
+Best of Mahjong (EUR):000400000012C300.txt
+Best of Solitaire (EUR):000400000012C400.txt
+Biohazard Revelations (TWN):00040000000A0000.txt
+Blazblue - Continuum Shift II (USA):000400000004AC00.txt
+Bloodstained - Curse Of The Moon (JPN):00040000001D3A00.txt
+Bloodstained - Curse Of The Moon (USA):00040000001D4000.txt
+BOXBOY! (EUR):0004000000154600.txt
+BOXBOY! (USA):0004000000154500.txt
+Bravely Default (EUR):00040000000FC600.txt
+Bravely Default (USA):00040000000FC500.txt
+Bravely Second - End Layer (EUR):000400000017BB00.txt
+Bravely Second - End Layer (JPN):00040000000DC800.txt
+Bravely Second - End Layer (USA):000400000017BA00.txt
+Candy Match 3 (EUR):0004000000109100.txt
+Captain Toad - Treasure Tracker (USA):00040000001CB100.txt
+Cardfight!! Vanguard - Lock On Victory!! (JPN):0004000000120700.txt
+Carnival Games - Wild West 3D (EUR):0004000000073D00.txt
+Carnival Games - Wild West 3D (USA):0004000000061400.txt
+Cars 2 (USA):000400000006A400.txt
+Castle Conqueror EX (EUR):0004000000155500.txt
+Castlevania (NES Inject) (USA):0004000000015400.txt
+Cats & Dogs - Pets at Play (EUR):0004000000084B00.txt
+Cave Story 3D (USA):000400000004A100.txt
+Centipede - Infestation (USA):000400000004AD00.txt
+Chain Blaster (USA):00040000000DCC00.txt
+Chibi-Robo! Photo Finder (USA):0004000000107C00.txt
+Chibi-Robo! Zip Lash (EUR):0004000000162F00.txt
+Chibi-Robo! Zip Lash (USA):0004000000163000.txt
+Chousoku Henkei Gyrozetter - Albatross no Tsubasa (JPN):0004000000059C00.txt
+Citizens of Earth (EUR):0004000000136E00.txt
+Classic Games Overload - Card & Puzzle Edition (EUR):0004000000091700.txt
+Code of Princess (USA):00040000000A2C00.txt
+Conception II - Children of the Seven Stars (JPN):00040000000CF600.txt
+Conception II - Children of the Seven Stars (USA):0004000000112C00.txt
+Contra (NES Inject) (USA):0004000000007500.txt
+Crash Time 3D (EUR):0004000000066200.txt
+Crayon Shin Chan - Uchuu de Achoo! Yuujou no Oba Karate!! (JPN):0004000000071F00.txt
+Creeping Terror (USA):00040000001CB600.txt
+Culdcept Revolt (USA):00040000001BEC00.txt
+Dead or Alive - Dimensions (USA):0004000000034F00.txt
+Deer Drive Legends (USA):0004000000061F00.txt
+Deer Hunting King (USA):0004000000092600.txt
+Dementium Remastered (USA):0004000000161B00.txt
+Demon King Box (USA):0004000000134900.txt
+Digimon World Re-Digitize - Decode (JPN):00040000000AFC00.txt
+Dillons Rolling Western (USA):000400000007C400.txt
+Dillons Rolling Western - The Last Ranger (USA):00040000000CC500.txt
+Disney Epic Mickey - Power of Illusion (EUR):00040000000B0A00.txt
+Disney Epic Mickey - Power Of Illusion (USA):00040000000A2D00.txt
+Disney Magical World (USA):00040000000EA900.txt
+Doctor Lautrec and the Forgotten Knights (USA):0004000000036800.txt
+Donkey Kong (GB VC) (USA):0004000000041D00.txt
+Donkey Kong Country Returns 3D (EUR):00040000000CCF00.txt
+Donkey Kong Country Returns 3D (JPN):00040000000CC000.txt
+Donkey Kong Country Returns 3D (USA):00040000000CCE00.txt
+Donkey Kong Land (GB VC) (USA):0004000000050100.txt
+Donkey Kong Land 2 (GB VC) (USA):000400000011A300.txt
+Donkey Kong Land 3 (GB VC) (USA):000400000011A600.txt
+Dragon Ball Fusions (JPN):0004000000196D00.txt
+Dragon Ball Fusions (USA):00040000001AA900.txt
+Dragon Ball Heroes - Ultimate Mission (JPN):00040000000AD900.txt
+Dragon Ball Heroes - Ultimate Mission 2 (JPN):0004000000120600.txt
+Dragon Ball Z - Extreme Butoden (EUR):0004000000169600.txt
+Dragon Ball Z - Extreme Butoden (USA):000400000016CD00.txt
+Dragon Quest Monsters - Joker 3 (JPN):000400000016AD00.txt
+Dragon Quest Monsters - Terry no Wonderland 3D (JPN):0004000000074600.txt
+Dragon Quest Monsters 2 - Iru to Ruka no Fushigi na Fushigi na Kagi (JPN):00040000000CF500.txt
+Dragon Quest VII - Fragments of the Forgotten Past (EUR):000400000018F000.txt
+Dragon Quest VII - Fragments of the Forgotten Past (JPN):0004000000065E00.txt
+Dragon Quest VII - Fragments of the Forgotten Past (USA):000400000018EF00.txt
+Dragon Quest VIII - Journey of the Cursed King (EUR):000400000018F200.txt
+Dragon Quest VIII - Journey of the Cursed King (USA):000400000018F100.txt
+DreamWorks Super Star Kartz (USA):000400000004CC00.txt
+Driver - Renegade 3D (USA):0004000000036000.txt
+Etrian Mystery Dungeon (USA):000400000015B200.txt
+Etrian Odyssey 2 Untold - The Fafnir Knight (EUR):000400000016E900.txt
+Etrian Odyssey 2 Untold - The Fafnir Knight (USA):000400000015F200.txt
+Etrian Odyssey IV - Legends of the Titan (EUR):00040000000EA600.txt
+Etrian Odyssey IV - Legends of the Titan (USA):00040000000BD300.txt
+Etrian Odyssey Nexus (EUR):00040000001D5200.txt
+Etrian Odyssey Nexus (USA):00040000001D4E00.txt
+Etrian Odyssey Untold - The Millennium Girl (EUR):000400000010EB00.txt
+Etrian Odyssey Untold - The Millennium Girl (USA):00040000000EC700.txt
+Etrian Odyssey V - Beyond the Myth (EUR):00040000001C5300.txt
+Etrian Odyssey V - Beyond the Myth (USA):00040000001C5100.txt
+Ever Oasis (EUR):00040000001A4900.txt
+Ever Oasis (USA):00040000001A4800.txt
+Excave (USA):0004000000158500.txt
+Fantasy Life (EUR):0004000000113100.txt
+Fantasy Life (USA):0004000000113200.txt
+Fantasy Life Link! (JPN):00040000000E9C00.txt
+Fast & Furious - Showdown (USA):00040000000b6200.txt
+Fifa 15 (EUR):000400000013CA00.txt
+Final Fantasy Explorers (EUR):000400000016E700.txt
+Final Fantasy Explorers (JPN):000400000010E200.txt
+Final Fantasy Explorers (USA):000400000016ED00.txt
+Fire Emblem - Awakening (EUR):000400000009F100.txt
+Fire Emblem - Awakening (USA):00040000000A0500.txt
+Fire Emblem Echoes - Shadows of Valentia (EUR):00040000001B4100.txt
+Fire Emblem Echoes - Shadows of Valentia (USA):00040000001B4000.txt
+Fire Emblem Fates - Birthright (EUR):0004000000179500.txt
+Fire Emblem Fates - Birthright (USA):0004000000179400.txt
+Fire Emblem Fates - Conquest (EUR):0004000000179700.txt
+Fire Emblem Fates - Conquest (USA):0004000000179600.txt
+Fire Emblem Fates - Special Edition (EUR):000400000017A800.txt
+Fire Emblem Fates - Special Edition (USA):0004000000179800.txt
+Fire Emblem If - Special Edition (JPN):000400000012DE00.txt
+Fossil Fighters Frontier (USA):000400000012DB00.txt
+Freakyforms Deluxe - Your Creations, Alive! (EUR):0004000000093300.txt
+Frogger 3D (EUR):0004000000056100.txt
+Frogger 3D (JPN):0004000000053800.txt
+Frogger 3D (USA):0004000000036900.txt
+Fun! Fun! Minigolf Touch! (EUR):0004000000052100.txt
+Gaist Crusher God (JPN):000400000012AD00.txt
+Garfield Kart (EUR):0004000000168900.txt
+Girls Fashion Shoot (EUR):00040000000B4800.txt
+Gravity Falls - Legend of the Gnome Gemulets (EUR):000400000014D900.txt
+Gunman Clive (USA):00040000000B8F00.txt
+Gyakuten Saiban 123 - Naruhodo Selection (JPN):0004000000108800.txt
+Hako Boy! Mouhito Hako (JPN):000400000017F800.txt
+Harvest Moon - Skytree Village (EUR):00040000001A6900.txt
+Harvest Moon - Skytree Village (USA):00040000001A3500.txt
+Harvest Moon 3D - A New Beginning (EUR):00040000000EAE00.txt
+Harvest Moon 3D - A New Beginning (USA):00040000000A5900.txt
+Harvest Moon 3D - The Lost Valley (EUR):000400000012BE00.txt
+Harvest Moon 3D - The Lost Valley (USA):000400000010F600.txt
+Harvest Moon 3D - The Tale of Two Towns (USA):0004000000047900.txt
+Hatsune Miku - Project Mirai DX (EUR):0004000000148900.txt
+Hatsune Miku - Project Mirai DX (USA):0004000000148C00.txt
+Heavy Fire - Black Arms 3D (EUR):00040000000FBE00.txt
+Heavy Fire - Special Ops (USA):00040000000AAF00.txt
+Heavy Fire - The Chosen Few (EUR):00040000000D5000.txt
+Hero Bank (JPN):0004000000101300.txt
+Hero Bank 2 (JPN):0004000000144300.txt
+Hey! Pikmin (EUR):00040000001AF800.txt
+Hyrule Warriors - Legends (EUR):000400000017EB00.txt
+Hyrule Warriors - Legends (JPN):000400000017D500.txt
+Hyrule Warriors - Legends (USA):000400000017EA00.txt
+Hyrule Warriors - Legends DEMO (JPN):000400020017D501.txt
+I Love my Pets (EUR):00040000000D1400.txt
+Ice Station Z (EUR):0004000000199700.txt
+Ice Station Z (JPN):00040000001BEA00.txt
+Ice Station Z (USA):0004000000190300.txt
+Inazuma Eleven (USA):0004000000112B00.txt
+Inazuma Eleven 1･2･3!! Endou Mamoru Densetsu (JPN):00040000000BB800.txt
+Inazuma Eleven 3 - Bomb Blast (EUR):00040000000F7B00.txt
+Inazuma Eleven 3 - Lightning Bolt (EUR):00040000000F7D00.txt
+Inazuma Eleven 3 - Team Ogre Attacks! (EUR):00040000000F7F00.txt
+Inazuma Eleven Go - Chrono Stones - Thunderflash (EUR):0004000000136D00.txt
+Inazuma Eleven Go - Chrono Stones - Wildfire (EUR):0004000000136C00.txt
+Inazuma Eleven Go - Dark (JPN):000400000006D300.txt
+Inazuma Eleven Go - Light (EUR):0004000000112F00.txt
+Inazuma Eleven Go - Shadow (EUR):0004000000113000.txt
+Inazuma Eleven Go - Shine (JPN):000400000006D400.txt
+Inazuma Eleven Go 2 - Chrono Stone - Neppuu (JPN):00040000000A1B00.txt
+Inazuma Eleven Go 2 - Chrono Stone - Raimei (JPN):00040000000A1C00.txt
+Inazuma Eleven Go Galaxy - Big Bang (JPN):000400000010BA00.txt
+Inazuma Eleven Go Galaxy - Supernova (JPN):000400000010BB00.txt
+IronFall - Invasion (EUR):000400000015B100.txt
+Jet Dog (EUR):0004000000161D00.txt
+Johnny HotShot (USA):00040000000B7A00.txt
+Johnny Kung Fu (USA):0004000000090000.txt
+Journey to Kreisia (USA):000400000019E100.txt
+Justice Chronicles (EUR):0004000000188200.txt
+Ken to Mahou to Gakuen Mono. 3D (JPN):000400000004D800.txt
+Kenka Banchou 6 - Soul & Blood (JPN):00040000000F4F00.txt
+Kid Icarus - Uprising (EUR):0004000000030200.txt
+Kid Icarus - Uprising (USA):0004000000030100.txt
+Kingdom Hearts 3D - Dream Drop Distance (EUR):0004000000095500.txt
+Kingdom Hearts 3D - Dream Drop Distance (JPN):000400000004EE00.txt
+Kingdom Hearts 3D - Dream Drop Distance (USA):000400000008D300.txt
+Kirby - Planet Robobot (GLO):0004000000183600.txt
+Kirby - Triple Deluxe (USA):000400000010BF00.txt
+Kirby Fighters Deluxe (USA):0004000000147E00.txt
+Kirby's Dream Land (GB VC) (USA):0004000000041700.txt
+Kirby's Dream Land 2 (GB VC) (USA):000400000007DB00.txt
+Kirby’s Extra Epic Yarn (JPN):00040000001D1200.txt
+Kirby’s Extra Epic Yarn (USA):00040000001D1E00.txt
+Kung Fu (NES Inject) (USA):0004000000200600.txt
+Labyrinth no Kanata (JPN):0004000000065C00.txt
+Langrisser Re-Incarnation -Tensei- (USA):0004000000187F00.txt
+LBX - Little Battlers eXperience (EUR):0004000000147200.txt
+LBX - Little Battlers eXperience (USA):0004000000147100.txt
+League of Heroes (USA):00040000000D6800.txt
+LEGO Batman 2 - DC Super Heroes (EUR):000400000005A400.txt
+LEGO Batman 2 - DC Super Heroes (FRA):0004000000098500.txt
+LEGO Batman 3 - Beyond Gotham (USA):000400000011DD00.txt
+LEGO City Undercover - The Chase Begins (EUR):00040000000AD600.txt
+LEGO City Undercover - The Chase Begins (USA):00040000000AD500.txt
+LEGO Friends (EUR):00040000000E8300.txt
+LEGO Harry Potter - Years 5-7 (EUR):0004000000049200.txt
+LEGO Harry Potter - Years 5-7 (USA):000400000004A400.txt
+LEGO Jurassic World (EUR):0004000000159900.txt
+LEGO Jurassic World (USA):000400000015B000.txt
+LEGO Legends of Chima - Laval's Journey (USA):00040000000AF800.txt
+LEGO Marvel Avengers (EUR):0004000000168000.txt
+LEGO Marvel Avengers (GER):0004000000168200.txt
+LEGO Marvel Avengers (USA):0004000000168500.txt
+LEGO Marvel Super Heroes - Universe in Peril (EUR):00040000000D1500.txt
+LEGO Marvel Super Heroes - Universe in Peril (FRA):00040000000F5B00.txt
+LEGO Marvel Super Heroes - Universe in Peril (GER):00040000000F5D00.txt
+LEGO Marvel Super Heroes - Universe in Peril (JPN):000400000015A900.txt
+LEGO Marvel Super Heroes - Universe in Peril (USA):00040000000D2000.txt
+LEGO Ninjago - Nindroids (USA):0004000000118C00.txt
+LEGO Ninjago - Shadow of Ronin (USA):000400000014EB00.txt
+LEGO Pirates of The Caribbean - The Video Game (USA):0004000000037400.txt
+LEGO Star Wars - The Force Awakens (USA):000400000017F900.txt
+LEGO Star Wars III - The Clone Wars (USA):0004000000035400.txt
+LEGO The Hobbit (USA):000400000011B800.txt
+LEGO The Lord of the Rings (FRA):00040000000B5000.txt
+LEGO The Lord of the Rings (GER):00040000000B5100.txt
+LEGO The Lord of the Rings (USA):000400000007A900.txt
+Lord of Magna - Maiden Heaven (USA):0004000000164300.txt
+Lost Heroes (JPN):0004000000090E00.txt
+Lost Heroes 2 (JPN):0004000000134300.txt
+Lufia - The Legend Returns (GBC VC) (USA):000400000011AA00.txt
+Luigis Mansion - Dark Moon (EUR):0004000000076500.txt
+Luigis Mansion - Dark Moon (JPN):0004000000076400.txt
+Luigis Mansion - Dark Moon (USA):0004000000055F00.txt
+Magi - Aratanaru Sekai (JPN):0004000000112800.txt
+MapleStory - The Girls Fate (KOR):00040000000E6000.txt
+MapleStory - Unmei No Shoujo (JPN):0004000000111600.txt
+Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (EUR):00040000001D1500.txt
+Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (JPN):00040000001CA900.txt
+Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA):00040000001D1400.txt
+Mario & Luigi - Dream Team (Update 1.1) (USA):0004000E000D5A00.txt
+Mario & Luigi - Dream Team (USA):00040000000D5A00.txt
+Mario & Luigi - Dream Team Bros. (EUR):00040000000D9000.txt
+Mario & Luigi - Dream Team Bros. (Update 1.1) (EUR):0004000E000D9000.txt
+Mario & Luigi - Paper Jam Bros. (EUR):0004000000132800.txt
+Mario & Luigi - Paper Jam Bros. (USA):0004000000132700.txt
+Mario & Luigi - Superstar Saga + Bowser's Minions (EUR):00040000001B9000.txt
+Mario & Luigi - Superstar Saga + Bowser's Minions (USA):00040000001B8F00.txt
+Mario & Sonic at the London 2012 Olympic Games (EUR):0004000000054900.txt
+Mario & Sonic at the London 2012 Olympic Games (JPN):0004000000032500.txt
+Mario & Sonic at the London 2012 Olympic Games (USA):0004000000054800.txt
+Mario & Sonic at the Rio 2016 Olympic Games (EUR):000400000017E300.txt
+Mario & Sonic at the Rio 2016 Olympic Games (JPN):000400000014A400.txt
+Mario & Sonic at the Rio 2016 Olympic Games (USA):000400000017E200.txt
+Mario Bros (NES VC) (USA):00040000000BD000.txt
+Mario Golf - World Tour (EUR):00040000000DCE00.txt
+Mario Golf - World Tour (JPN):00040000000A5300.txt
+Mario Golf - World Tour (USA):00040000000DCD00.txt
+Mario Kart 7 (EUR):0004000000030700.txt
+Mario Kart 7 (JPN):0004000000030600.txt
+Mario Kart 7 (TWN):000400000008B400.txt
+Mario Kart 7 (Update 1.1) (EUR):0004000E00030700.txt
+Mario Kart 7 (USA):0004000000030800.txt
+Mario Party - Island Tour (EUR):00040000000F8200.txt
+Mario Party - Island Tour (USA):00040000000F8100.txt
+Mario Party - Star Rush (USA):000400000019BD00.txt
+Mario Sports Superstars (EUR):0004000000188D00.txt
+Mario Tennis Open (EUR):000400000007C800.txt
+Mario Tennis Open (JPN):0004000000064D00.txt
+Mario Tennis Open (TWN):00040000000B9100.txt
+Mario Tennis Open (USA):000400000007C700.txt
+Mario vs. Donkey Kong - Tipping Stars (USA):000400000012C800.txt
+Medarot 7 - Kabuto Ver. (JPN):0004000000065B00.txt
+Medarot 7 - Kuwagata Ver. (JPN):0004000000065A00.txt
+Medarot 8 - Kabuto Ver. (JPN):0004000000113300.txt
+Medarot 8 - Kuwagata Ver. (JPN):0004000000113400.txt
+Medarot Dual - Kabuto Ver. (JPN):000400000009EF00.txt
+Medarot Dual - Kuwagata Ver. (JPN):000400000009F000.txt
+Mega Man - Dr. Wily's Revenge (GB VC) (USA):000400000004F100.txt
+Mega Man II (GB VC) (USA):00040000000EF200.txt
+Mega Man III (GB VC) (USA):00040000000EF500.txt
+Mega Man IV (GB VC) (USA):00040000000EF800.txt
+Mega Man Legacy Collection (EUR):0004000000175500.txt
+Mega Man VI (NES Inject) (USA):00040000000A1600.txt
+Metal Fight Beyblade - 4D x Zero-G Ultimate Tournament (JPN):0004000000104800.txt
+Metal Gear Solid - Snake Eater 3D (EUR):0004000000082400.txt
+Metal Max 4 - Gekkou no Diva (JPN):00040000000AFD00.txt
+Metroid (NES VC) (USA):000400000006EE00.txt
+Metroid - Samus Returns (EUR):00040000001BFB00.txt
+Metroid - Samus Returns (USA):00040000001BB200.txt
+Metroid II - Return of Samus (GB VC) (USA):0004000000050400.txt
+Metroid Prime Federation Force (USA):000400000016E300.txt
+Mighty Final Fight (USA):00040000000F8600.txt
+Mighty Gunvolt (EUR):0004000000165700.txt
+Mighty Gunvolt (USA):000400000014CD00.txt
+Mighty Gunvolt Burst (USA):00040000001C7700.txt
+Mighty Switch Force! (EUR):0004000000072700.txt
+Mighty Switch Force! (USA):0004000000066300.txt
+Mighty Switch Force! 2 (EUR):00040000000C6B00.txt
+Mighty Switch Force! 2 (USA):00040000000C2800.txt
+Miitopia (EUR):00040000001B4F00.txt
+Miitopia (JPN):0004000000178800.txt
+Minna de Auto Race 3D (JPN):000400000006AC00.txt
+Monster Hunter 3 Ultimate (EUR):00040000000B1D00.txt
+Monster Hunter 3 Ultimate (USA):00040000000AE400.txt
+Monster Hunter 4 Ultimate (EUR):0004000000126100.txt
+Monster Hunter 4 Ultimate (USA):0004000000126300.txt
+Monster Hunter Generations (EUR):0004000000185B00.txt
+Monster Hunter Generations (USA):0004000000187000.txt
+Monster Hunter Stories (EUR):00040000001BC600.txt
+Monster Hunter Stories (USA):00040000001BC500.txt
+Monster Hunter X Cross (JPN):0004000000155400.txt
+Monster Hunter XX Double Cross (JPN):0004000000197100.txt
+Moon Chronicles (USA):000400000012E700.txt
+Mushibugyo (JPN):00040000000E8700.txt
+Nano Assault (JPN):000400000008D400.txt
+Nano Assault (USA):0004000000047B00.txt
+Nano Assault EX (USA):00040000000B9E00.txt
+Naruto - Powerful Shippuden (CHN):00040000000C1F00.txt
+Naruto - Powerful Shippuden (EUR):00040000000C4400.txt
+Naruto - Powerful Shippuden (JPN):00040000000AFE00.txt
+Naruto - Powerful Shippuden (USA):000400000003CF00.txt
+Naruto Shippuden - Shinobi Rittai Emaki! Saikyou Ninkai Kessen!! (JPN):0004000000035B00.txt
+Naruto Shippuden 3D - The New Era (EUR):0004000000045500.txt
+Naruto Shippuden 3D - The New Era (FRA):0004000000044400.txt
+Nekketsu Kouha Kunio-Kun SP - Rantou Kyousoukyoku (JPN):00040000000DC700.txt
+Nekketsu Kouha Kunio-Kun Special (JPN):000400000005E300.txt
+Nekketsu Mahou Monogatari (JPN):000400000012B600.txt
+New Super Mario Bros. 2 (EUR):000400000007AF00.txt
+New Super Mario Bros. 2 (Gold Edition) (USA):0004000000137E00.txt
+New Super Mario Bros. 2 (JPN):000400000007AD00.txt
+New Super Mario Bros. 2 (TWN):00040000000B8A00.txt
+New Super Mario Bros. 2 (USA):000400000007AE00.txt
+Ninja Battle Heroes (USA):000400000013D200.txt
+Ninja JaJaMaru-kun - Sakura-hime to Karyu no Himitsu (JPN):00040000000D3F00.txt
+Nintendo Badge Arcade (EUR):0004000000153600.txt
+Nintendo Badge Arcade (USA):0004000000153500.txt
+Nintendo Pocket Football Club (EUR):0004000000106200.txt
+Nintendo Presents - New Style Boutique 2 - Fashion Forward (EUR):000400000016A100.txt
+Nintendogs + Cats - French Bulldog & New Friends (EUR):0004000000031100.txt
+Nintendogs + Cats - French Bulldog & New Friends (USA):0004000000031200.txt
+Nintendogs + Cats - Golden Retriever & New Friends (EUR):0004000000030C00.txt
+Nintendogs + Cats - Golden Retriever & New Friends (USA):0004000000030D00.txt
+Nintendogs + Cats - Toy Poodle & New Friends (EUR):0004000000031600.txt
+Nintendogs + Cats - Toy Poodle & New Friends (USA):0004000000031700.txt
+One Piece - Romance Dawn (EUR):00040000000F8300.txt
+One Piece - Romance Dawn (JPN):00040000000DBC00.txt
+One Piece - Romance Dawn (USA):0004000000116A00.txt
+One Piece - Super Grand Battle X (JPN):0004000000144400.txt
+One Piece - Unlimited Cruise SP (EUR):0004000000073600.txt
+One Piece - Unlimited Cruise SP (JPN):0004000000047E00.txt
+One Piece - Unlimited Cruise SP 2 (EUR):0004000000093400.txt
+One Piece - Unlimited World Red (EUR):0004000000117E00.txt
+One Piece - Unlimited World Red (JPN):00040000000F5800.txt
+One Piece - Unlimited World Red (USA):0004000000123D00.txt
+Outdoors Unleashed - Africa 3D (USA):00040000000AE500.txt
+Pac-Man Party 3D (EUR):000400000005C900.txt
+Pac-Man Party 3D (JPN):0004000000056900.txt
+Pac-Man Party 3D (USA):0004000000068B00.txt
+Paper Mario - Sticker Star (EUR):00040000000A5F00.txt
+Paper Mario - Sticker Star (TWN):00040000000C8100.txt
+Paper Mario - Sticker Star (USA):00040000000A5E00.txt
+Persona Q - Shadow of the Labyrinth (EUR):0004000000149F00.txt
+Persona Q - Shadow of the Labyrinth (JPN):00040000000C3600.txt
+Persona Q - Shadow of the Labyrinth (USA):0004000000123400.txt
+PilotWings Resort (USA):0004000000031C00.txt
+Pinball Hall of Fame - The Williams Collection (EUR):000400000004E300.txt
+Pocket Soccer League - Calciobit (JPN):0004000000039B00.txt
+Pokémon Alpha Sapphire (GLO):000400000011C500.txt
+Pokémon Blue (GB Inject) (EUR):000400000B000100.txt
+Pokémon Blue (GB VC) (GLO):0004000000171100.txt
+Pokémon Crystal (GBC Inject) (EUR):000400000B000500.txt
+Pokémon Crystal (GBC VC) (GLO):0004000000172800.txt
+Pokémon Gold (GBC Inject) (EUR):000400000B000300.txt
+Pokémon Gold (GBC VC) (GLO):0004000000172600.txt
+Pokémon Moon (GLO):0004000000175E00.txt
+Pokémon Mystery Dungeon - Gates to Infinity (EUR):00040000000BA900.txt
+Pokémon Omega Ruby (GLO):000400000011C400.txt
+Pokémon Picross (USA):000400000017C100.txt
+Pokémon Red (GB Inject) (EUR):000400000B000000.txt
+Pokémon Red (GB VC) (GLO):0004000000171000.txt
+Pokémon Rumble World (EUR):0004000000185A00.txt
+Pokémon Silver (GBC VC) (GLO):0004000000172700.txt
+Pokémon Sun (GLO):0004000000164800.txt
+Pokémon Super Mystery Dungeon (EUR):0004000000174400.txt
+Pokémon Super Mystery Dungeon (USA):0004000000174600.txt
+Pokémon Ultra Moon (GLO):00040000001B5100.txt
+Pokémon Ultra Sun (GLO):00040000001B5000.txt
+Pokémon X (GLO):0004000000055D00.txt
+Pokémon Y (GLO):0004000000055E00.txt
+Pokémon Yellow (GBC Inject) (EUR):000400000B000200.txt
+Pokémon Yellow (GBC VC) (GLO):0004000000171200.txt
+Poochy & Yoshi’s Woolly World (USA):00040000001A4100.txt
+Pro Evolution Soccer 2013 3D (EUR):00040000000B0000.txt
+Professor Layton and the Azran Legacy (FRA):00040000000F3200.txt
+Professor Layton and the Azran Legacy (GER):00040000000F3100.txt
+Professor Layton and the Mask of Miracles (FRA):00040000000A8800.txt
+Professor Layton and the Mask of Miracles (GER):00040000000A8700.txt
+Professor Layton vs. Phoenix Wright - Ace Attorney (EUR):0004000000100500.txt
+Project X Zone (EUR):00040000000DD700.txt
+Project X Zone (JPN):0004000000073900.txt
+Project X Zone (USA):00040000000C6400.txt
+Project X Zone 2 - Brave New World (EUR):0004000000162000.txt
+Project X Zone 2 - Brave New World (JPN):000400000014FB00.txt
+Project X Zone 2 - Brave New World (Original Game Sound Edition) (JPN):000400000014FC00.txt
+Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition (EUR):0004000000137800.txt
+Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition (USA):0004000000137700.txt
+Radiant Historia - Perfect Chronology (EUR):00040000001CD900.txt
+Radiant Historia - Perfect Chronology (USA):00040000001C8F00.txt
+Rage of the Gladiator (EUR):00040000000B7400.txt
+Rage of the Gladiator (USA):00040000000AAC00.txt
+Rayman Origins (EUR):000400000005A500.txt
+Rayman Origins (USA):0004000000057600.txt
+Regular Show - Mordecai & Rigby in 8-Bit Land (EUR):00040000000FD000.txt
+Regular Show - Mordecai & Rigby in 8-Bit Land (USA):00040000000EBD00.txt
+Resident Evil - Revelations (EUR):000400000005EE00.txt
+Resident Evil - Revelations (USA):0004000000060200.txt
+Resident Evil - The Mercenaries 3D (USA):0004000000035900.txt
+Retro City Rampage DX (USA):000400000010D200.txt
+Return to PoPoLoCrois - A Story of Seasons Fairytale (EUR):0004000000188F00.txt
+Ridge Racer 3D (EUR):0004000000033B00.txt
+Ridge Racer 3D (JPN):0004000000032800.txt
+Ridge Racer 3D (USA):0004000000035800.txt
+Rodea the Sky Soldier (EUR):0004000000169500.txt
+Rodea the Sky Soldier (USA):0004000000168800.txt
+Rune Factory 4 (JPN):0004000000065800.txt
+Rune Factory 4 (USA):00040000000D2800.txt
+Rythm Heaven Megamix (USA):000400000018A400.txt
+Sakura Samurai - Art of the Sword (USA):000400000007CD00.txt
+Samurai Warriors - Chronicles (EUR):0004000000040200.txt
+Samurai Warriors - Chronicles 3 (JPN):000400000014DF00.txt
+Samurai Warriors - Chronicles 3 (USA):000400000016F200.txt
+Scooby Doo & Looney Tunes Cartoon Universe - Adventure (USA):000400000012EE00.txt
+SD Gundam G Generation 3D (JPN):0004000000071A00.txt
+Senran Kagura - Burst (EUR):00040000000F4500.txt
+Senran Kagura - Burst (JPN):000400000009F600.txt
+Senran Kagura - Burst (USA):00040000000ED100.txt
+Senran Kagura 2 - Deep Crimson (EUR):0004000000165800.txt
+Senran Kagura 2 - Deep Crimson (JPN):00040000000FB100.txt
+Senran Kagura 2 - Deep Crimson (USA):0004000000165000.txt
+Shantae and the Pirates Curse (EUR):000400000010AF00.txt
+Shantae and the Pirates Curse (USA):00040000000C2900.txt
+Shin Megami Tensei - Devil Summoner - Soul Hackers (EUR):00040000000F5500.txt
+Shin Megami Tensei - Devil Summoner - Soul Hackers (USA):00040000000C5600.txt
+Shin Megami Tensei - Devil Survivor 2 Record Breaker (EUR):000400000016E600.txt
+Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA):0004000000159500.txt
+Shin Megami Tensei - Devil Survivor Overclocked (EUR):000400000009C000.txt
+Shin Megami Tensei - Devil Survivor Overclocked (JPN):000400000004D900.txt
+Shin Megami Tensei - Devil Survivor Overclocked (USA):0004000000038800.txt
+Shin Megami Tensei - Strange Journey Redux (USA):00040000001CD200.txt
+Shin Megami Tensei IV (USA):00040000000E5C00.txt
+Shin Megami Tensei IV - Apocalypse (USA):000400000019A200.txt
+Shinobi (EUR):000400000005AA00.txt
+Shinobi (JPN):0004000000065F00.txt
+Shinobi (USA):0004000000055B00.txt
+Shovel Knight - Treasure Trove (EUR):000400000012CB00.txt
+Shovel Knight - Treasure Trove (Update 3.2) (EUR):0004000E0017C900.txt
+Shovel Knight - Treasure Trove (Update 3.2) (USA):0004000E0017E100.txt
+Shovel Knight - Treasure Trove (USA):0004000000119A00.txt
+Skylanders - Giants (USA):0004000000091D00.txt
+Slime MoriMori Dragon Quest 3 - Taikaizoku to Shippo Dan (JPN):000400000005C300.txt
+Sonic Boom - Fire & Ice (USA):0004000000161300.txt
+Sonic Boom - Shattered Crystal (USA):0004000000127500.txt
+Sonic Generations (EUR):0004000000062200.txt
+Sonic Generations (JPN):000400000004CA00.txt
+Sonic Generations (USA):0004000000062300.txt
+Sonic Lost World (EUR):00040000000CB400.txt
+Sonic Lost World (JPN):00040000000C5400.txt
+Sonic Lost World (USA):00040000000C8C00.txt
+SpeedX 3D - Hyper Edition (EUR):00040000000EA800.txt
+Spy Hunter (EUR):000400000009D500.txt
+Star Fox 64 3D (CHN):0004000000080A00.txt
+Star Fox 64 3D (EUR):0004000000049100.txt
+Star Fox 64 3D (JPN):0004000000030400.txt
+Star Fox 64 3D DEMO (EUR):000400000005CD00.txt
+Star Fox 64 3D DEMO (USA):000400000005CC00.txt
+Steamworld Dig (EUR):00040000000ED400.txt
+Steel Diver - Sub Wars (EUR):00040000000D7E00.txt
+Stella Glow (EUR):000400000017C700.txt
+Stella Glow (USA):0004000000173700.txt
+Story of Seasons (EUR):000400000015FC00.txt
+Story of Seasons (USA):0004000000142100.txt
+Story of Seasons - Trio of Towns (EUR):00040000001B5500.txt
+Story of Seasons - Trio of Towns (USA):000400000019F500.txt
+Street Fighter II (VC Inject) (EUR):0004000000006200.txt
+StreetPass Mii Plaza (EUR):0004001000022800.txt
+StreetPass Mii Plaza (JPN):0004001000020800.txt
+Style Savvy - Styling Star (USA):00040000001C2500.txt
+Style Savvy - Trendsetters (USA):00040000000A9100.txt
+Super Mario 3D Land (EUR):0004000000053F00.txt
+Super Mario 3D Land (JPN):0004000000054100.txt
+Super Mario 3D Land (TWN):0004000000089E00.txt
+Super Mario 3D Land (USA):0004000000054000.txt
+Super Mario Bros. (NES VC) (USA):000400000006E500.txt
+Super Mario Bros. - Lost Levels (NES VC) (USA):0004000000094E00.txt
+Super Mario Bros. 2 (NES VC) (USA):00040000000A6200.txt
+Super Mario Bros. 3 (NES VC) (EUR):000400000006E900.txt
+Super Mario Bros. Deluxe (GBC VC) (EUR):00040000000FFB00.txt
+Super Mario Bros. Deluxe (GBC VC) (JPN):00040000000FF900.txt
+Super Mario Land (GB VC) (USA):0004000000040800.txt
+Super Mario Land 2 - 6 Golden Coins (GB VC) (USA):0004000000041A00.txt
+Super Mario Maker for Nintendo 3DS (EUR):00040000001A0500.txt
+Super Mario Maker for Nintendo 3DS (USA):00040000001A0400.txt
+Super Monkey Ball 3D (USA):0004000000037000.txt
+Super Pokemon Rumble (EUR):0004000000066D00.txt
+Super Robot Taisen UX (JPN):0004000000078A00.txt
+Super Smash Bros. for Nintendo 3DS (EUR):00040000000EE000.txt
+Super Smash Bros. for Nintendo 3DS (USA):00040000000EDF00.txt
+Super Street Fighter IV - 3D Edition (EUR):0004000000033C00.txt
+Super Street Fighter IV - 3D Edition (JPN):0004000000030500.txt
+Super Street Fighter IV - 3D Edition (USA):0004000000032D00.txt
+Swords & Darkness (JPN):00040000000FB800.txt
+Swords & Darkness (USA):0004000000146200.txt
+Tales of the Abyss (EUR):000400000005D700.txt
+Tales of the Abyss (JPN):000400000004A700.txt
+Tales of the Abyss (USA):0004000000061300.txt
+Teddy Together (EUR):0004000000179300.txt
+Teenage Mutant Ninja Turtles (EUR):00040000000F7900.txt
+Teenage Mutant Ninja Turtles (USA):00040000000D5B00.txt
+Tekken 3D - Prime Edition (EUR):000400000007E900.txt
+Tekken 3D - Prime Edition (USA):0004000000080300.txt
+Tenkai Knights - Brave Battle (EUR):000400000012AF00.txt
+Tenkai Knights - Brave Battle (USA):0004000000127D00.txt
+Terra Formars - Akaki Hoshi no Gekitou (JPN):0004000000140B00.txt
+Terraria (USA):000400000016A900.txt
+Tetris (GB VC) (USA):000400000007E700.txt
+Tetris Ultimate (EUR):0004000000132400.txt
+Tetris Ultimate (USA):000400000012EC00.txt
+The Amazing Spider-Man 2 (EUR):000400000011C000.txt
+The Binding of Isaac - Rebirth (USA):000400000F700800.txt
+The Denpa Men - They Came By Wave (USA):00040000000A3100.txt
+The Legend of Dark Witch (USA):000400000014EE00.txt
+The Legend of Dark Witch - Chronicle 2D ACT (EUR):0004000000148500.txt
+The Legend of Dark Witch 2 (USA):0004000000186600.txt
+The Legend Of Dark Witch 3 - Wisdom And Lunacy (USA):00040000001CD600.txt
+The Legend of Legacy (EUR):000400000017C800.txt
+The Legend of Legacy (JPN):0004000000131C00.txt
+The Legend of Legacy (USA):000400000016DB00.txt
+The Legend of Zelda (NES VC) (EUR):000400000006F200.txt
+The Legend of Zelda (NES VC) (USA):000400000006F100.txt
+The Legend of Zelda - A Link Between Worlds (EUR):00040000000EC400.txt
+The Legend of Zelda - A Link Between Worlds (USA):00040000000EC300.txt
+The Legend of Zelda - Link's Awakening DX (GBC VC) (USA):0004000000042700.txt
+The Legend of Zelda - Majoras Mask 3D (EUR):0004000000125600.txt
+The Legend of Zelda - Majoras Mask 3D (JPN):00040000000D6E00.txt
+The Legend of Zelda - Majoras Mask 3D (USA):0004000000125500.txt
+The Legend of Zelda - Ocarina of Time 3D (CHN):000400000008F900.txt
+The Legend of Zelda - Ocarina of Time 3D (EUR):0004000000033600.txt
+The Legend of Zelda - Ocarina of Time 3D (JPN):0004000000033400.txt
+The Legend of Zelda - Ocarina of Time 3D (KOR):000400000008F800.txt
+The Legend of Zelda - Ocarina of Time 3D (USA):0004000000033500.txt
+The Legend of Zelda - Ocarina of Time 3D DEMO (EUR):0004000000057300.txt
+The Legend of Zelda - Ocarina of Time 3D DEMO (USA):0004000000057400.txt
+The Legend of Zelda - Oracle of Ages (GBC VC) (USA):0004000000058F00.txt
+The Legend of Zelda - Oracle of Seasons (GBC VC) (USA):0004000000058C00.txt
+The Legend of Zelda - Tri Force Heroes (EUR):0004000000177000.txt
+The Legend of Zelda - Tri Force Heroes (USA):0004000000176F00.txt
+The LEGO Movie Videogame (USA):0004000000105A00.txt
+The Oregon Trail (USA):000400000004C500.txt
+Theatrhythm Dragon Quest (JPN):0004000000140000.txt
+Theatrhythm Final Fantasy - Curtain Call (EUR):00040000000FCA00.txt
+Theatrhythm Final Fantasy - Curtain Call (USA):00040000000FD500.txt
+Tomodachi Collection - New Life (JPN):000400000008C500.txt
+Tomodachi Life (EUR):000400000008C400.txt
+Toriko - Gourmet Monsters! (JPN):00040000000ACA00.txt
+Toy Stunt Bike (EUR):000400000012CC00.txt
+Urban Trial Freestyle (EUR):000400000007F500.txt
+Urban Trial Freestyle 2 (EUR):00040000001A4600.txt
+Viking Invasion 2 - Tower Defense (EUR):00040000000C7800.txt
+Wario Land - Super Mario Land 3 (GB VC) (USA):0004000000057C00.txt
+WarioWare Gold (GLO):00040000001D1C00.txt
+Wild Adventures - Ultimate Deer Hunt 3D (USA):00040000000C1500.txt
+Wipeout - Create and Crash (USA):00040000000ED200.txt
+Wipeout 3 (USA):000400000009F300.txt
+WRC - FIA World Rally Championship (EUR):0004000000149300.txt
+Wrecking Crew (NES VC) (USA):000400000006F700.txt
+WWE All Stars (EUR):0004000000056400.txt
+Xenoblade Chronicles 3D (USA):000400000F700100.txt
+Yo-Kai Watch (EUR):0004000000167800.txt
+Yo-Kai Watch (JPN):00040000000CF400.txt
+Yo-Kai Watch (USA):0004000000167700.txt
+Yo-Kai Watch 2 - Bony Spirits (EUR):000400000019AB00.txt
+Yo-Kai Watch 2 - Bony Spirits (USA):000400000019A900.txt
+Yo-Kai Watch 2 - Fleshy Souls (EUR):000400000019AC00.txt
+Yo-Kai Watch 2 - Fleshy Souls (USA):000400000019AA00.txt
+Yo-Kai Watch 2 - Ganso (JPN):000400000012F900.txt
+Yo-Kai Watch 2 - Honke (JPN):000400000012F800.txt
+Yo-Kai Watch 2 - Psychic Specters (USA):00040000001B2700.txt
+Yo-Kai Watch 2 - Shin'uchi (JPN):0004000000155100.txt
+Yo-Kai Watch Busters 2 - Magnum (JPN):00040000001C9C00.txt
+Yo-Kai Watch Busters 2 - Sword (JPN):00040000001C9400.txt
+Yoshi's New Island (EUR):0004000000111C00.txt
+Yoshi's New Island (JPN):0004000000083B00.txt
+Yoshi's New Island (USA):0004000000111B00.txt
+Yu-Gi-Oh! Zexal - World Duel Carnival (EUR):0004000000132B00.txt
+Zelda II - The Adventure of Link (NES VC) (USA):0004000000070900.txt
+Zombie Panic in Wonderland DX (USA):00040000000F5600.txt
+Zombie Slayer Diox (USA):000400000007FF00.txt
+Zoo Resort 3D (EUR):000400000004B200.txt
+Zoo Resort 3D (JPN):0004000000039500.txt
+Zoo Resort 3D (USA):0004000000044D00.txt
+测试111:493ie.txt
