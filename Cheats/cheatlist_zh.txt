@@ -1,1 +1,1 @@
-{"cheats":[{"title":"勇者斗恶龙11","cheat":"0004000000199200.txt"},{"title":"幻想生活Link","cheat":"00040000000E9C00.txt"}]}
+{"cheats":[{"title":"勇者斗恶龙11","cheat":"0004000000199200.txt","area":"Zh"},{"title":"幻想生活Link","cheat":"00040000000E9C00.txt","area":"Zh"}]}

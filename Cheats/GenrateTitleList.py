@@ -17,7 +17,7 @@ save_en_path = base_path + '\\cheatlist_en.txt'
 #Chinese output file
 save_zh_path = base_path + '\\cheatlist_zh.txt'
 
-def write_cheattitle(baselanpath,savepath):
+def write_cheattitle(baselanpath,savepath,area):
         fw=open(savepath, "w", encoding="utf-8")
         file_path = os.walk(baselanpath)
         first = True
@@ -27,18 +27,19 @@ def write_cheattitle(baselanpath,savepath):
                         text=files[0]
                         destitle='"title":"'+root.replace(baselanpath+'\\','')+'"'
                         cheattitle='"cheat":"'+text+'"'
+                        lanarea='"area":"'+area+'"'
                         if first:
                                 first=False
-                                fw.write('{'+destitle+','+cheattitle+'}')
+                                fw.write('{'+destitle+','+cheattitle+','+lanarea+'}')
                         else:
-                                fw.write(',{'+destitle+','+cheattitle+'}')
+                                fw.write(',{'+destitle+','+cheattitle+','+lanarea+'}')
 
         fw.write(']}')
 
 
 
 
-write_cheattitle(en_base_path,save_en_path)
-write_cheattitle(zh_base_path,save_zh_path)
+write_cheattitle(en_base_path,save_en_path,"En")
+write_cheattitle(zh_base_path,save_zh_path,"Zh")
 
 
