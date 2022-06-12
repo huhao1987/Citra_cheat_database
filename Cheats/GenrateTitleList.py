@@ -23,16 +23,19 @@ def write_cheattitle(baselanpath,savepath,area):
         first = True
         fw.write('{"cheats":[')
         for root, dirs, files in file_path:
-                if baselanpath+'\\' in root:
-                        text=files[0]
-                        destitle='"title":"'+root.replace(baselanpath+'\\','')+'"'
-                        cheattitle='"cheat":"'+text+'"'
-                        lanarea='"area":"'+area+'"'
-                        if first:
-                                first=False
-                                fw.write('{'+destitle+','+cheattitle+','+lanarea+'}')
-                        else:
-                                fw.write(',{'+destitle+','+cheattitle+','+lanarea+'}')
+                try:
+                        if baselanpath+'\\' in root:
+                                text=files[0]
+                                destitle='"title":"'+root.replace(baselanpath+'\\','')+'"'
+                                cheattitle='"cheat":"'+text+'"'
+                                lanarea='"area":"'+area+'"'
+                                if first:
+                                        first=False
+                                        fw.write('{'+destitle+','+cheattitle+','+lanarea+'}')
+                                else:
+                                        fw.write(',{'+destitle+','+cheattitle+','+lanarea+'}')
+                except:
+                        print (root)
 
         fw.write(']}')
 
