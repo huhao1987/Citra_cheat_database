@@ -1,4 +1,3 @@
-*From Aiwu app and Baidu Tieba
 [Mutiple action per round-V1.0]
 10724F24 00004080
 10724F26 0000E92D
